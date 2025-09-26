@@ -36,7 +36,7 @@ The activity allows students to log in using their email and password, validates
 ![Login Screen](https://github.com/evans-njau/android-login/blob/master/login%20page.jpg)  
 
 ### 2. Dashboard Screen (after login)  
-![Dashboard Screen](https://github.com/evans-njau/android-login/blob/master/welcome%20page.jpg)
+![welcome page](https://github.com/evans-njau/android-login/blob/master/welcome%20page.jpg)
 ---
 
 ## 🚀 How to Run the Project  
